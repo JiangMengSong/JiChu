@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JiChu:jar">
+    <output-path>$PROJECT_DIR$/../../Server/server1.7.10/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="JiChu.jar">
+        <element id="module-output" name="JiChu" />
+        <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

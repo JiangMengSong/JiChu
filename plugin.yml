@@ -1,0 +1,48 @@
+name: JiChu
+main: com.rongyaoserver.jichu.JiChu
+version: 1.0.0
+author: JueHen
+commands:
+  anjia:
+    description: 设置家
+    usage: /anjia 家的名字
+    permission: anjia.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+  huijia:
+    description: 返回设置的家
+    usage: /huijia 家的名字
+    permission: huijia.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+  chaijia:
+    description: 移除设置的家
+    usage: /chaijia 家的名字
+    permission: chaijia.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+  chuanSong:
+    description: 传送到玩家身边
+    usage: /chuansong 家的名字
+    permission: chuansong.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+  tongyi:
+    description: 接受玩家传送到身边
+    usage: /tongyi
+    permission: tongyi.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+  jujue:
+    description: 拒绝玩家传送到身边
+    usage: /jujue
+    permission: jujue.use
+    permission-message: §c对不起，你没有执行该命令的权限！
+permissions:
+  anjia.use:
+    default: op
+  huijia.use:
+    default: op
+  chajia.use:
+    default: op
+  chuansong.use:
+    default: op
+  tongyi.use:
+    default: op
+  jujue.use:
+    default: op
