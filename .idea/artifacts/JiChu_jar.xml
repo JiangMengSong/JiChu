@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact name="JiChu:jar">
-    <output-path>$PROJECT_DIR$/../../Server/server1.7.10/plugins</output-path>
+    <output-path>$PROJECT_DIR$/../../../Minecraft/MinecraftServer/Server/1.7.10/server1.7.10/plugins</output-path>
     <root id="root">
       <element id="archive" name="JiChu.jar">
         <element id="module-output" name="JiChu" />

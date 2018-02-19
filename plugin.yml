@@ -3,24 +3,29 @@ main: com.rongyaoserver.jichu.JiChu
 version: 1.0.0
 author: JueHen
 commands:
+  jia:
+    description: 查看设置的家
+    usage: /jia
+    permission: jia.use
+    permission-message: §c对不起，你没有执行该命令的权限！
   anjia:
     description: 设置家
-    usage: /anjia 家的名字
+    usage: /anjia [家的名字]
     permission: anjia.use
     permission-message: §c对不起，你没有执行该命令的权限！
   huijia:
     description: 返回设置的家
-    usage: /huijia 家的名字
+    usage: /huijia [家的名字]
     permission: huijia.use
     permission-message: §c对不起，你没有执行该命令的权限！
   chaijia:
     description: 移除设置的家
-    usage: /chaijia 家的名字
+    usage: /chaijia [家的名字]
     permission: chaijia.use
     permission-message: §c对不起，你没有执行该命令的权限！
   chuanSong:
     description: 传送到玩家身边
-    usage: /chuansong 家的名字
+    usage: /chuansong [玩家的名字]
     permission: chuansong.use
     permission-message: §c对不起，你没有执行该命令的权限！
   tongyi:
@@ -34,15 +39,17 @@ commands:
     permission: jujue.use
     permission-message: §c对不起，你没有执行该命令的权限！
 permissions:
+  jia.use:
+    default: true
   anjia.use:
-    default: op
+    default: true
   huijia.use:
-    default: op
+    default: true
   chajia.use:
-    default: op
+    default: true
   chuansong.use:
-    default: op
+    default: true
   tongyi.use:
-    default: op
+    default: true
   jujue.use:
-    default: op
+    default: true

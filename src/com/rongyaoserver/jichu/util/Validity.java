@@ -170,11 +170,11 @@ public class Validity {
     }
 
     /**
-     * Check whether String is time.
+     * Check whether String is thread.
      * 
      * @param param
      *            any String
-     * @return boolean return is time or not
+     * @return boolean return is thread or not
      */
     public static boolean isTime(String param) {
         String timepattern = "(\\s(((0?[0-9])|([1-2][0-3]))\\:([0-5]?[0-9])((\\s)|(\\:([0-5]?[0-9])))))?$";
