@@ -1,6 +1,6 @@
-package com.rongyaoserver.jichu.listener;
+package xyz.juehen.jichu.listener;
 
-import com.rongyaoserver.jichu.util.Validity;
+import xyz.juehen.jichu.util.Validity;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

@@ -1,6 +1,6 @@
-package com.rongyaoserver.jichu.api;
+package xyz.juehen.jichu.api;
 
-import com.rongyaoserver.jichu.opera.PlayerOpera;
+import xyz.juehen.jichu.opera.PlayerOpera;
 import org.bukkit.entity.Player;
 
 public interface CommandApi {

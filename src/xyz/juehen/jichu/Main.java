@@ -1,7 +1,7 @@
-package com.rongyaoserver.jichu;
+package xyz.juehen.jichu;
 
-import com.rongyaoserver.jichu.entity.Home;
-import com.rongyaoserver.jichu.util.DBHelper;
+import xyz.juehen.jichu.entity.Home;
+import xyz.juehen.jichu.util.DBHelper;
 
 import java.util.List;
 

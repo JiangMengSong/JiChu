@@ -1,9 +1,8 @@
-package com.rongyaoserver.jichu.command;
+package xyz.juehen.jichu.command;
 
-import com.rongyaoserver.jichu.api.CommandApi;
-import com.rongyaoserver.jichu.entity.Home;
-import com.rongyaoserver.jichu.mapper.HomeMapper;
-import com.rongyaoserver.jichu.opera.PlayerOpera;
+import xyz.juehen.jichu.api.CommandApi;
+import xyz.juehen.jichu.entity.Home;
+import xyz.juehen.jichu.mapper.HomeMapper;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;

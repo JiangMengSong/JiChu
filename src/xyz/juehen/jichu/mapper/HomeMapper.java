@@ -1,7 +1,7 @@
-package com.rongyaoserver.jichu.mapper;
+package xyz.juehen.jichu.mapper;
 
-import com.rongyaoserver.jichu.entity.Home;
-import com.rongyaoserver.jichu.util.DBHelper;
+import xyz.juehen.jichu.entity.Home;
+import xyz.juehen.jichu.util.DBHelper;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

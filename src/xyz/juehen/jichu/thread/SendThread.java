@@ -1,6 +1,6 @@
-package com.rongyaoserver.jichu.thread;
+package xyz.juehen.jichu.thread;
 
-import com.rongyaoserver.jichu.opera.PlayerOpera;
+import xyz.juehen.jichu.opera.PlayerOpera;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 

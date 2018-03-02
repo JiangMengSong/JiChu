@@ -1,4 +1,4 @@
-package com.rongyaoserver.jichu.util;
+package xyz.juehen.jichu.util;
 
 
 import java.lang.reflect.Field;

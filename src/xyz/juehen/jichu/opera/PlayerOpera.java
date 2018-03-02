@@ -1,12 +1,9 @@
-package com.rongyaoserver.jichu.opera;
+package xyz.juehen.jichu.opera;
 
-import com.rongyaoserver.jichu.util.Validity;
-import org.bukkit.Bukkit;
-import org.bukkit.entity.Player;
+import xyz.juehen.jichu.util.Validity;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.UUID;
 
 public class PlayerOpera {
     

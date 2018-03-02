@@ -1,5 +1,5 @@
 name: JiChu
-main: com.rongyaoserver.jichu.JiChu
+main: JiChu
 version: 1.0.0
 author: JueHen
 commands:

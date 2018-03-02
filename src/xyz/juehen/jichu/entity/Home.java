@@ -1,4 +1,4 @@
-package com.rongyaoserver.jichu.entity;
+package xyz.juehen.jichu.entity;
 
 import java.util.Date;
 

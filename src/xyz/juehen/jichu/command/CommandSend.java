@@ -1,9 +1,9 @@
-package com.rongyaoserver.jichu.command;
+package xyz.juehen.jichu.command;
 
-import com.rongyaoserver.jichu.api.CommandApi;
-import com.rongyaoserver.jichu.listener.ServerListener;
-import com.rongyaoserver.jichu.thread.SendThread;
-import com.rongyaoserver.jichu.opera.PlayerOpera;
+import xyz.juehen.jichu.api.CommandApi;
+import xyz.juehen.jichu.listener.ServerListener;
+import xyz.juehen.jichu.thread.SendThread;
+import xyz.juehen.jichu.opera.PlayerOpera;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 

@@ -1,10 +1,9 @@
-package com.rongyaoserver.jichu;
+package xyz.juehen.jichu;
 
-import com.rongyaoserver.jichu.command.CommandHome;
-import com.rongyaoserver.jichu.command.CommandSend;
-import com.rongyaoserver.jichu.listener.ServerListener;
+import xyz.juehen.jichu.command.CommandHome;
+import xyz.juehen.jichu.command.CommandSend;
+import xyz.juehen.jichu.listener.ServerListener;
 import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.file.FileConfiguration;
